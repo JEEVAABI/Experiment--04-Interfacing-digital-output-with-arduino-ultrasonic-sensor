@@ -1,5 +1,6 @@
 # EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
-
+Name : JEEVA ABISHAKE
+Register NO : 212221240018
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
@@ -91,10 +92,11 @@ void loop()
 
 
 ### Distance vs measurement table 
-#### circuit diagram:
+#### Circuit Diagram:
 ![output](dev.png)
+#### Serial Moniter:
 ![output](serialmon.png)
-#### table:
+#### TABLE:
 ![output](table.png)
 
 			
